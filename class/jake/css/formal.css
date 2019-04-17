@@ -1,0 +1,27 @@
+.dropdown-menu {
+    min-width: 12em;  padding: 1em;
+}
+.dropdown-item {
+    padding: 0;
+}
+.overlay {
+    position: fixed;  top: 0;  right: 0;  bottom: 0;  left: 0;  width: 100%;  height: 100%;  background:    -moz-linear-gradient(top, #4d4d4d 0%, rgba(255,255,255,0) 100%);  background: -webkit-linear-gradient(top, rgb(156, 154, 154) 0%,rgba(255,255,255,0) 100%);  background:         linear-gradient(to bottom, rgb(78, 78, 78) 0%,rgba(255,255,255,0) 100%);  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0);
+}
+.harum {
+    font-size: 100px;
+    margin: 0 auto;
+    text-decoration-line: underline;
+    text-decoration-color: #4c4e4e;
+    letter-spacing: 2px;
+}
+.paragraph {
+    font-family: 'Slabo 27px', serif;
+    font-size: 26px;
+    text-indent: 50px;
+    padding: 100px;
+    font-weight: 600;
+    margin: 6%;
+    padding: 1em;
+    letter-spacing: 1px;
+    background: rgb(190, 190, 190);
+}

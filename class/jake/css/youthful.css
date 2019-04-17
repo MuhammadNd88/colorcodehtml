@@ -1,0 +1,26 @@
+body {
+    background: rgb(255, 251, 33);
+    font-family: 'Indie Flower', cursive;
+}
+.navbar-brand {
+    font-size: 24px;
+    color: yellow;
+}
+.container {
+    margin: 0 auto;
+    background: #fafafa;
+    border-radius: 30px;
+    padding: 0;
+    margin-top: 3em;
+    font-weight: 600;
+    color: blue;
+}
+.container h1 {
+    font-size: 100px;
+    text-indent: 60px;
+}
+.container p {
+    font-size: 54px;
+    text-indent: 30px;
+    padding-left: 1%;
+}

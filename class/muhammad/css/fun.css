@@ -1,0 +1,45 @@
+
+
+
+@font-face {
+    font-family: "myfun";
+    src: url("./fonts/Charm-Bold.ttf");
+   
+  }
+p{
+    color: black;
+    font-family: "myfun", sans-serif;
+    letter-spacing: 1.4;
+    font-size: 18px;
+    
+}
+
+
+.wrapper{
+
+    margin: 0 auto;
+    padding:10%;
+    max-width:800;
+    
+    
+    }
+    
+    
+    header{
+    height:50px;
+    padding-top:40px;
+    
+    }
+    main{
+    color:black;
+    height: 200px;
+    padding:80px 0;
+    
+    
+    }
+    body {
+        background: linear-gradient(rgb(252, 252, 252), #4abdac);
+        height:150vh;
+    
+
+    }

@@ -1,0 +1,61 @@
+.bg-light {
+  background-color: rgb(242, 242, 242) !important;
+}
+
+body {
+  background-color: #3b3b3b;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  margin-bottom: 3em;
+}
+
+.navbar-brand,
+.navbar-nav a {
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.fc-container {
+  margin-bottom: 2em;
+}
+
+.fc-content {
+  /* margin: 0 auto;
+  max-width: 100%;
+  background: rgb(242, 242, 242);
+  padding-left: 10em;
+  padding-top: 2em;
+  padding-right: 10em;
+  padding-bottom: 1em;
+  margin: 2em; */
+  margin: 0 auto;
+  max-width: 90%;
+  background: rgb(242, 242, 242);
+  padding-left: 13em;
+  padding-top: 2em;
+  padding-right: 13em;
+  padding-bottom: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+h1, p {
+  color: #36454f;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3.2em;
+  font-family: 'Julius Sans One', sans-serif;
+  padding-bottom: 0.5em;
+}
+
+p {
+  font-size: 1.6em;
+  margin-bottom: 2em;
+  text-align: justify;
+}
